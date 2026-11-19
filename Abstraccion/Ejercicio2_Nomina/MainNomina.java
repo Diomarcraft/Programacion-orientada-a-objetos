@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio2_Nomina;
+
 public class MainNomina {
     public static void main(String[] args) {
         Empleado[] empleados = {

@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio1_Figuras;
+
 public class Triangulo extends Figura {
     private double base;
     private double altura;

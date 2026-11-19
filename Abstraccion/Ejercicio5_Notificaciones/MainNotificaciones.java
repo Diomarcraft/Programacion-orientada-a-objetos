@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio5_Notificaciones;
+
 public class MainNotificaciones {
     public static void main(String[] args) {
         Notificacion[] notificaciones = {

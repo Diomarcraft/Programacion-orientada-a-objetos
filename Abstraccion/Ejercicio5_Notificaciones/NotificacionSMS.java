@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio5_Notificaciones;
+
 public class NotificacionSMS extends Notificacion {
     public NotificacionSMS(String celular, String mensaje) {
         super(celular, mensaje);

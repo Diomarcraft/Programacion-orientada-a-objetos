@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio2_Nomina;
+
 public class EmpleadoPorHoras extends Empleado {
     private int horasTrabajadas;
     private double tarifaPorHora;

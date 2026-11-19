@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio3_Electrodomesticos;
+
 public class Nevera extends Electrodomestico {
     public Nevera(String marca) {
         super(marca);

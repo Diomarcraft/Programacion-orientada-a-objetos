@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio4_MediosPago;
+
 public abstract class MedioPago {
     protected double monto;
 

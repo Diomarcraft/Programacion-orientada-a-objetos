@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio5_Notificaciones;
+
 public class NotificacionWhatsApp extends Notificacion {
     public NotificacionWhatsApp(String numero, String mensaje) {
         super(numero, mensaje);

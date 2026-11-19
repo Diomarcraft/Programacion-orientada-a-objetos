@@ -1,3 +1,5 @@
+package Abstraccion.RetoIntegrador_ServiciosPublicos;
+
 public abstract class ServicioPublico {
     protected String numeroContrato;
     protected String titular;

@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio5_Notificaciones;
+
 public class NotificacionEmail extends Notificacion {
     public NotificacionEmail(String correo, String mensaje) {
         super(correo, mensaje);

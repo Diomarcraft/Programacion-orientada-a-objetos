@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio4_MediosPago;
+
 public class PagoEfectivo extends MedioPago {
     public PagoEfectivo(double monto) {
         super(monto);

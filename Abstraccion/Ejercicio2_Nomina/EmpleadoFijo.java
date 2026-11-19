@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio2_Nomina;
+
 public class EmpleadoFijo extends Empleado {
     private double salarioMensual;
 

@@ -1,3 +1,5 @@
+package Abstraccion.Ejercicio2_Nomina;
+
 public abstract class Empleado {
     protected String nombre;
     protected String documento;
