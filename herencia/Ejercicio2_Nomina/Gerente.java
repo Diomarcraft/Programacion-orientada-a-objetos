@@ -1,3 +1,5 @@
+package herencia.Ejercicio2_Nomina;
+
 public class Gerente extends Empleado {
     private double bonificacion;
 

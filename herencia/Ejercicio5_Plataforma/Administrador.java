@@ -1,3 +1,5 @@
+package herencia.Ejercicio5_Plataforma;
+
 // RETO: tercera clase hija
 public class Administrador extends Usuario {
     private String nivelPermiso; // "TOTAL" o "PARCIAL"

@@ -1,3 +1,5 @@
+package herencia.Ejercicio3_Concesionaria;
+
 // RETO: tercera clase hija
 public class Camioneta extends Vehiculo {
     private double capacidadCarga; // en kg

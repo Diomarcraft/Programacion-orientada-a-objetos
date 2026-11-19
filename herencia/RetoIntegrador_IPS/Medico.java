@@ -1,3 +1,5 @@
+package herencia.RetoIntegrador_IPS;
+
 public class Medico extends PersonalIPS {
     private static final double PAGO_POR_CONSULTA = 500000;
 

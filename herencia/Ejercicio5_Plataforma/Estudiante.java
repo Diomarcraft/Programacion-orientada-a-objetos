@@ -1,3 +1,5 @@
+package herencia.Ejercicio5_Plataforma;
+
 public class Estudiante extends Usuario {
     private int cursosInscritos;
 

@@ -1,3 +1,5 @@
+package herencia.Ejercicio4_Figuras;
+
 public class Figura {
     protected String color;
 

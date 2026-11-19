@@ -1,3 +1,5 @@
+package encapsulamiento.Ejercicio3_Producto;
+
 public class MainProducto {
     public static void main(String[] args) {
         Producto p = new Producto("P-001", "Teclado Mecanico", 180000, 10);

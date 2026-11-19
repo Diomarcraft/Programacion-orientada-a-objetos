@@ -1,3 +1,5 @@
+package herencia.Ejercicio5_Plataforma;
+
 public class MainPlataforma {
     public static void main(String[] args) {
         Estudiante e = new Estudiante("Carlos Vega",

@@ -1,3 +1,5 @@
+package encapsulamiento.RetoIntegrador_IPS;
+
 public class Paciente {
     // ===== Atributos privados =====
     private String documento;

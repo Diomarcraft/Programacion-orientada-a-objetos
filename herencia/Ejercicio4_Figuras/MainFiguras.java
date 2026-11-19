@@ -1,3 +1,5 @@
+package herencia.Ejercicio4_Figuras;
+
 public class MainFiguras {
     public static void main(String[] args) {
         Circulo c = new Circulo("Rojo", 5);

@@ -1,3 +1,5 @@
+package encapsulamiento.Ejercicio5_Usuario;
+
 public class MainUsuario {
     public static void main(String[] args) {
         Usuario u = new Usuario("carlos.dev", "clave1234");

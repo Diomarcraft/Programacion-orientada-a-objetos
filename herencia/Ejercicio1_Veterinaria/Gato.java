@@ -1,3 +1,5 @@
+package herencia.Ejercicio1_Veterinaria;
+
 public class Gato extends Animal {
 
     public Gato(String nombre, int edad) {

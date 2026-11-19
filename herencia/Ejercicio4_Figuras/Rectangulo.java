@@ -1,3 +1,5 @@
+package herencia.Ejercicio4_Figuras;
+
 public class Rectangulo extends Figura {
     private double ancho;
     private double alto;

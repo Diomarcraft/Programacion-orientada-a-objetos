@@ -1,3 +1,5 @@
+package herencia.Ejercicio1_Veterinaria;
+
 public class Animal {
     // Atributos protected: las clases hijas pueden usarlos directamente
     protected String nombre;

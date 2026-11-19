@@ -1,3 +1,5 @@
+package herencia.Ejercicio2_Nomina;
+
 public class MainEmpresa {
     public static void main(String[] args) {
         Vendedor v = new Vendedor("Ana Lopez", "1234", 1500000, 350000);

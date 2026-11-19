@@ -1,3 +1,5 @@
+package herencia.Ejercicio5_Plataforma;
+
 public class Instructor extends Usuario {
     private String especialidad;
 

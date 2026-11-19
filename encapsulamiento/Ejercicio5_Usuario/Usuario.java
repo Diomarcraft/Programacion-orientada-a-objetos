@@ -1,3 +1,5 @@
+package encapsulamiento.Ejercicio5_Usuario;
+
 public class Usuario {
     private String nombreUsuario;
     private String password; // Nunca tendra getter publico

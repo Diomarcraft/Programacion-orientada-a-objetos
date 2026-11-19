@@ -1,3 +1,5 @@
+package encapsulamiento.Ejercicio2_Aprendiz;
+
 public class MainAprendiz {
     public static void main(String[] args) {
         Aprendiz a = new Aprendiz("1090123456", "Laura Gomez");

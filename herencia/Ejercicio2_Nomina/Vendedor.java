@@ -1,3 +1,5 @@
+package herencia.Ejercicio2_Nomina;
+
 public class Vendedor extends Empleado {
     private double comision;
 

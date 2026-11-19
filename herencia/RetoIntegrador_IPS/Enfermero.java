@@ -1,3 +1,5 @@
+package herencia.RetoIntegrador_IPS;
+
 public class Enfermero extends PersonalIPS {
     private static final double RECARGO_NOCTURNO = 200000;
 

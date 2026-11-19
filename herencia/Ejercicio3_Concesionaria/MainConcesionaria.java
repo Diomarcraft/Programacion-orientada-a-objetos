@@ -1,3 +1,5 @@
+package herencia.Ejercicio3_Concesionaria;
+
 public class MainConcesionaria {
     public static void main(String[] args) {
         Carro c = new Carro("Chevrolet", "Spark", 45000000, 4);

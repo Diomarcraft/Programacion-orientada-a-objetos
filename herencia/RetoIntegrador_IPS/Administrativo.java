@@ -1,3 +1,5 @@
+package herencia.RetoIntegrador_IPS;
+
 public class Administrativo extends PersonalIPS {
     private String area; // recepcion, facturacion, etc.
 
