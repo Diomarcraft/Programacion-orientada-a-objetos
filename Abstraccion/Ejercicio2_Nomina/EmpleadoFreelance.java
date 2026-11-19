@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio2_Nomina;
-
 public class EmpleadoFreelance extends Empleado {
     private int proyectosTerminados;
     private double pagoPorProyecto;

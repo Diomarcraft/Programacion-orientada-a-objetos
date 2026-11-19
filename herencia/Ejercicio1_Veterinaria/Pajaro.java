@@ -1,5 +1,3 @@
-package herencia.Ejercicio1_Veterinaria;
-
 // RETO: tercera clase hija
 public class Pajaro extends Animal {
 

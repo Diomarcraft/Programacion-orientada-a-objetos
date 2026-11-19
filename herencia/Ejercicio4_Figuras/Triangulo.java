@@ -1,5 +1,3 @@
-package herencia.Ejercicio4_Figuras;
-
 // RETO: tercera clase hija
 public class Triangulo extends Figura {
     private double base;

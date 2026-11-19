@@ -1,5 +1,3 @@
-package herencia.RetoIntegrador_IPS;
-
 public class MainIPS {
     public static void main(String[] args) {
         Medico medico = new Medico("1090123456", "Andres Gomez", 6000000,

@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio3_Electrodomesticos;
-
 public abstract class Electrodomestico {
     protected String marca;
     protected boolean encendido;

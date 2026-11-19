@@ -1,5 +1,3 @@
-package herencia.RetoIntegrador_IPS;
-
 public class PersonalIPS {
     protected String documento;
     protected String nombre;

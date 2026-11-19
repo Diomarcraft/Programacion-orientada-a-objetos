@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio1_CuentaBancaria;
-
 public class CuentaBancaria {
     // Atributos privados - encapsulados
     private final String numeroCuenta;

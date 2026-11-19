@@ -1,5 +1,3 @@
-package herencia.Ejercicio4_Figuras;
-
 public class Circulo extends Figura {
     private double radio;
 

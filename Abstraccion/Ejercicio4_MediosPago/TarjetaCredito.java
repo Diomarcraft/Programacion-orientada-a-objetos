@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio4_MediosPago;
-
 public class TarjetaCredito extends MedioPago {
     private String numeroTarjeta;
 

@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio4_Vehiculo;
-
 public class MainVehiculo {
     public static void main(String[] args) {
         Vehiculo v = new Vehiculo("ABC123", "Renault", "Logan");

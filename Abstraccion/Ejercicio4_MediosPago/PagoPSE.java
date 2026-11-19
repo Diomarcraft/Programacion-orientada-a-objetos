@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio4_MediosPago;
-
 public class PagoPSE extends MedioPago {
     private String banco;
 

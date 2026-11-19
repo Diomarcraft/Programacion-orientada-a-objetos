@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio2_Aprendiz;
-
 public class Aprendiz {
     private String documento;
     private String nombre;

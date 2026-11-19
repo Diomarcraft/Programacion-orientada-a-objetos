@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio4_MediosPago;
-
 public class MainTienda {
     public static void main(String[] args) {
         MedioPago[] medios = {

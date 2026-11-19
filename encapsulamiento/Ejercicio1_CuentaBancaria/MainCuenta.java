@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio1_CuentaBancaria;
-
 public class MainCuenta {
     public static void main(String[] args) {
         CuentaBancaria cuenta = new CuentaBancaria("001-2345", "Carlos Perez", 100000000);

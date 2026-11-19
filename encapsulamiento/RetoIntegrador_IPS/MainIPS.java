@@ -1,5 +1,3 @@
-package encapsulamiento.RetoIntegrador_IPS;
-
 public class MainIPS {
     public static void main(String[] args) {
         // 1. Crear un paciente

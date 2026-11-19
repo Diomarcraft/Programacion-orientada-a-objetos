@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio1_Figuras;
-
 public class Rectangulo extends Figura {
     private double ancho;
     private double alto;

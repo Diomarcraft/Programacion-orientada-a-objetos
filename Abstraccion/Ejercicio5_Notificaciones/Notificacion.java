@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio5_Notificaciones;
-
 public abstract class Notificacion {
     protected String destinatario;
     protected String mensaje;

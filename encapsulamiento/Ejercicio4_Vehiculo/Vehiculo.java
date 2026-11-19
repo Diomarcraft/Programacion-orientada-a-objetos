@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio4_Vehiculo;
-
 public class Vehiculo {
     private String placa;
     private String marca;

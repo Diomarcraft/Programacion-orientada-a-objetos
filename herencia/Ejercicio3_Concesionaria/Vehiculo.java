@@ -1,5 +1,3 @@
-package herencia.Ejercicio3_Concesionaria;
-
 public class Vehiculo {
     protected String marca;
     protected String modelo;

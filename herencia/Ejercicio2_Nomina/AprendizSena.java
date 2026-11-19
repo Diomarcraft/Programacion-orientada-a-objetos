@@ -1,5 +1,3 @@
-package herencia.Ejercicio2_Nomina;
-
 // RETO: el aprendiz recibe el 50% del salario base como apoyo de sostenimiento
 public class AprendizSena extends Empleado {
 

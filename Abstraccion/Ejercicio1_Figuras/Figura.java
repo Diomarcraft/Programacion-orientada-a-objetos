@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio1_Figuras;
-
 public abstract class Figura {
     protected String nombre;
 

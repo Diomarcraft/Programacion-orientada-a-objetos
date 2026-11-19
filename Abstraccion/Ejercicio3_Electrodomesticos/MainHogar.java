@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio3_Electrodomesticos;
-
 public class MainHogar {
     public static void main(String[] args) {
         Televisor televisor = new Televisor("LG");

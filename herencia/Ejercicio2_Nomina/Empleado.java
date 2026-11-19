@@ -1,5 +1,3 @@
-package herencia.Ejercicio2_Nomina;
-
 public class Empleado {
     protected String nombre;
     protected String documento;

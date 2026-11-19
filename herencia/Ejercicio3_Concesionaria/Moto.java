@@ -1,5 +1,3 @@
-package herencia.Ejercicio3_Concesionaria;
-
 public class Moto extends Vehiculo {
     private int cilindraje;
 

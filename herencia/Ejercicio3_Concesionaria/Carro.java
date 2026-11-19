@@ -1,5 +1,3 @@
-package herencia.Ejercicio3_Concesionaria;
-
 public class Carro extends Vehiculo {
     private int numeroPuertas;
 

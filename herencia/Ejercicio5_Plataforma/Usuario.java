@@ -1,5 +1,3 @@
-package herencia.Ejercicio5_Plataforma;
-
 public class Usuario {
     protected String nombre;
     protected String correo;

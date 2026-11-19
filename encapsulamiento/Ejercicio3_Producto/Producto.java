@@ -1,5 +1,3 @@
-package encapsulamiento.Ejercicio3_Producto;
-
 public class Producto {
     private String codigo;
     private String nombre;

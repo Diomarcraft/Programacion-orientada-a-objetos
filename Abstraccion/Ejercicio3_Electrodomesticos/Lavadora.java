@@ -1,5 +1,3 @@
-package Abstraccion.Ejercicio3_Electrodomesticos;
-
 public class Lavadora extends Electrodomestico {
     public Lavadora(String marca) {
         super(marca);
